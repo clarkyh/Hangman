@@ -49,7 +49,7 @@ An interactive Hangman game built using React and Node.js, designed to provide a
 2. **Start the Frontend Development Server:**
    ```sh
    cd ../frontend
-   npm install
+   npm start
 
 
   ## Usage
